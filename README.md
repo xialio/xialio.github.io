@@ -1,7 +1,7 @@
 
 ### Demo Screeshots
 
-![Richard Ryan Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![QQ20241029-121049.png](https://cloudflare-imgbed.xialio.us.kg/file/1730175137851_QQ20241029-121049.png)
 
 ### Contact
 
